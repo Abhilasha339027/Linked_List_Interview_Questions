@@ -1,4 +1,4 @@
-##Count Pairs whose sum is equal to X 
+## Count Pairs whose sum is equal to X 
 
 ```
 int countPairs(struct Node* head1, struct Node* head2, int x) {
